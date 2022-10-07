@@ -4,17 +4,18 @@
     ⏳ = In progress.
     🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms.
 
-- [x] OpenVPN https://tryhackme.com/room/openvpn [👍]
-- [x] Welcome https://tryhackme.com/jr/welcome [👍]
-- [x] Intro to Researching https://tryhackme.com/room/introtoresearch [👍]
-- [x] The Hacker Methodology https://tryhackme.com/room/hackermethodology [👍]
-- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals
-- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
+# Level 1 - Intro
+
+- [x] OpenVPN https://tryhackme.com/room/openvpn                                [👍]
+- [x] Welcome https://tryhackme.com/jr/welcome                                  [👍]
+- [x] Intro to Researching https://tryhackme.com/room/introtoresearch           [👍]
+- [x] The Hacker Methodology https://tryhackme.com/room/hackermethodology       [👍]
+- [x] Learn Linux https://tryhackme.com/module/linux-fundamentals               [👍]
 
 **Introductory CTFs to get your feet wet**
 
-- [ ] Google Dorking https://tryhackme.com/room/googledorking
-- [ ] OHsint https://tryhackme.com/room/ohsint
+- [ ] Google Dorking https://tryhackme.com/room/googledorking                   [⏳]
+- [v] OHsint https://tryhackme.com/room/ohsint                                  [👍]
 - [ ] Shodan.io https://tryhackme.com/room/shodan
 
 # Level 2 - Tooling
