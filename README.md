@@ -1,4 +1,8 @@
-# tryhackme https://tryhackme.com/resources/blog/free_path
+# Tryhackme [https://tryhackme.com/resources/blog/free_path]
+
+    👍 = Completed.
+    ⏳ = In progress.
+    🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms.
 
 - [ ] OpenVPN https://tryhackme.com/room/openvpn
 - [ ] Welcome https://tryhackme.com/jr/welcome
