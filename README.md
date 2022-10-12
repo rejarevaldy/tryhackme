@@ -26,8 +26,8 @@
 - [x] Web Scanning https://tryhackme.com/room/rpwebscanning                                                     [🔒]
 - [x] Sublist3r https://tryhackme.com/room/rpsublist3r                                                          [🔒]
 - [x] Metasploit https://tryhackme.com/room/rpmetasploit                                                        [👍]
-- [ ] Hydra https://tryhackme.com/room/hydra
-- [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
+- [x] Hydra https://tryhackme.com/room/hydra                                                                    [👍]
+- [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc                                                     [⏳]
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Shodan https://tryhackme.com/room/shodan
 - [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan
