@@ -33,10 +33,10 @@
 - [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan
 
 **More introductory CTFs**
-- [ ] Vulnversity - https://tryhackme.com/room/vulnversity
+- [x] Vulnversity - https://tryhackme.com/room/vulnversity                                                      [👍]
 - [ ] Blue - https://tryhackme.com/room/blue
 - [ ] Simple CTF https://tryhackme.com/room/easyctf
-- [ ] Bounty Hacker https://tryhackme.com/room/cowboyhacker
+- [x] Bounty Hacker https://tryhackme.com/room/cowboyhacker                                                     [👍]
 - [ ] Brute It https://tryhackme.com/room/bruteit
 
 # Level 3 - Crypto &amp; Hashes with CTF practice
